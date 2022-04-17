@@ -13,11 +13,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="http://www.linkedin.com/in/cristianopelizzari"
+          href="https://www.linkedin.com/in/brendo-ara%C3%BAjo/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Linkedin - Cristiano Pelizzari de Andrade
+          Linkedin - Brendo de Araujo Rodrigues
         </a>
         <span>
             
